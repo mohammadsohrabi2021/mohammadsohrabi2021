@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-header.svg" alt="Mohammad Sohrabi — Backend and Full-Stack Engineer" width="100%" />
+<img src="./github-header.svg" alt="Mohammad Sohrabi — Backend and Full-Stack Engineer" width="100%" />
 
 <br/>
 
