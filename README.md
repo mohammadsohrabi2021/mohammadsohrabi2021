@@ -1,306 +1,274 @@
-<div align="center">
+ <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=25\&duration=3000\&pause=1000\&color=14F7B4\&center=true\&vCenter=true\&width=950\&lines=Hi%2C+I'm+Mohammad+Sohrabi+%F0%9F%91%8B;Full-Stack+Developer+%C2%B7+Context+Engineer;Technical+SEO+%C2%B7+AI-Assisted+Development;Building+real-world+systems+that+perform%2C+rank+and+scale)](https://mohammadsohrabi.com)
+<a href="https://mohammadsohrabi.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=14F7B4&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mohammad+Sohrabi+%F0%9F%91%8B;Full-Stack+Developer;Backend+Engineer+%7C+Node.js+%26+NestJS;AI+%26+Context+Engineering;Building+Software+That+Solves+Real+Problems" alt="Typing SVG" />
+</a>
 
 # Mohammad Sohrabi
 
-### Full-Stack Developer · Context Engineer · Technical SEO Specialist
+### Full-Stack Developer · Backend Engineer · Technical SEO Specialist
 
-**Building scalable web systems, AI-assisted workflows and search-optimized products for real-world businesses.**
+Building scalable applications, intelligent systems and exceptional digital experiences.
 
-<br>
+<br/>
 
-[![Website](https://img.shields.io/badge/Website-mohammadsohrabi.com-14F7B4?style=for-the-badge\&logo=googlechrome\&logoColor=black)](https://mohammadsohrabi.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@mohammadsohrabi.dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mohammadsohrabi.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohammadsohrabi141@gmail.com)
+<a href="https://mohammadsohrabi.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-14F7B4?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="https://instagram.com/mohammadsohrabi.dev">
+<img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:mohammadsohrabi141@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohammadsohrabi2021&style=flat-square&color=14F7B4&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-I'm **Mohammad Sohrabi**, a Full-Stack Developer and Technical SEO Specialist focused on building **production-grade web systems**, not just websites.
+I'm **Mohammad Sohrabi**, a Full-Stack Developer focused on backend engineering, scalable web applications, AI-assisted development and technical SEO.
 
-Most of my experience comes from real-world freelance and business projects where software has to solve operational problems, manage data, support users and remain maintainable as the business grows.
+I enjoy turning complex business requirements into reliable, maintainable and production-ready software.
 
-My work sits at the intersection of:
+My approach combines engineering fundamentals, thoughtful architecture, clean interfaces and practical problem-solving.
 
-```text
-Software Engineering
-        ×
-AI & Context Engineering
-        ×
-Technical SEO
-        ×
-Business Systems
+I don't just build websites. I build systems designed to work, grow and solve real-world problems.
+
+```ts
+const mohammad = {
+  role: "Full-Stack Developer",
+  specialization: [
+    "Backend Engineering",
+    "Full-Stack Development",
+    "Technical SEO",
+    "AI & Context Engineering",
+  ],
+  backend: ["Node.js", "NestJS", "Express.js"],
+  frontend: ["Next.js", "React", "TypeScript"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  philosophy: "Build with purpose. Engineer for scale.",
+};
 ```
 
-I work across frontend, backend, databases, SEO architecture and AI-assisted development — with a strong focus on **Next.js, TypeScript, PostgreSQL, MongoDB and modern LLM workflows**.
-
-> **I build web systems that perform, rank and solve real business problems.**
-
----
-
-## What I Do
-
-* Build full-stack web applications with **Next.js**
-* Develop modern interfaces with **React, TypeScript and Tailwind CSS**
-* Design backend logic, APIs and server-side application flows
-* Work with **PostgreSQL** and **MongoDB**
-* Build operational and management systems for real businesses
-* Design SEO-first web architectures
-* Optimize **Core Web Vitals, crawlability and indexability**
-* Engineer structured contexts and workflows for LLMs
-* Use **Claude Code** professionally in software development workflows
-* Design AI-assisted content, development and SEO systems
-
----
-
-## Core Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Full-Stack Development
+### Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js" />
 
-### Data
+### Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
 
-### Web & CMS
+### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=wordpress,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux" />
 
-### Engineering Tools
+### Additional Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,flutter" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 </div>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Systems
+
+- RESTful API Development
+- Node.js Applications
+- NestJS Architecture
+- Express.js Applications
+- Authentication & Authorization
+- Database Design
+- API Integration
+- Business Logic Engineering
+- Scalable Backend Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend & UI/UX
+
+- Modern Web Applications
+- Next.js & React
+- Responsive Interfaces
+- Component-Based Architecture
+- Dashboard Design
+- Design Systems
+- Performance Optimization
+- User Experience
+- SEO-Friendly Interfaces
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Context Engineering
+
+- LLM-Assisted Development
+- Prompt Engineering
+- Context Architecture
+- AI-Powered Workflows
+- Agentic Development
+- AI-Assisted Automation
+
+</td>
+<td width="50%" valign="top">
+
+### Technical SEO
+
+- Technical SEO Architecture
+- Core Web Vitals
+- Crawlability & Indexability
+- Structured Data
+- Server-Side Rendering
+- SEO Automation
+- Search Performance
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Projects & Experience
+
+My experience includes developing software for real businesses and operational environments. Some production projects are private and cannot be shared publicly.
+
+### Infrastructure & Telemetry Management
+
+Management systems related to water distribution, wastewater operations and telemetry workflows.
+
+`Node.js` · `Databases` · `Business Systems`
+
+### Automotive Service Management
+
+Applications for automotive assistance, repair operations, customer requests and service workflows.
+
+`Backend Engineering` · `APIs` · `Management Systems`
+
+### ECU Repair & Remapping Platform
+
+Specialized management workflows for ECU repair, programming, remapping and automotive electronics services.
+
+`Backend Development` · `Data Management`
+
+### SEO & Content Operations
+
+Web platforms and workflows designed around technical SEO, content infrastructure and digital business operations.
+
+`Next.js` · `SEO` · `Automation`
 
 ---
 
 ## AI & Context Engineering
 
-I use AI as part of the engineering workflow — not just as a content-generation tool.
+I believe effective AI development starts with context, architecture and well-defined engineering workflows.
 
-### Context Engineering
+My interests include:
 
-Designing structured context systems that help language models understand:
+- Context Engineering for LLM applications
+- Structured project context
+- AI-assisted software development
+- Agentic coding workflows
+- Claude Code
+- Prompt Engineering
+- AI-powered business automation
 
-* Application architecture
-* Business rules
-* Development constraints
-* Project conventions
-* Task state
-* Tool usage
-* Long-running development workflows
-
-### Prompt Engineering
-
-Creating precise, reusable and structured instructions for:
-
-* Software development
-* Code review
-* Debugging
-* Research
-* Automation
-* Content operations
-* SEO workflows
-
-### Claude Code
-
-I use **Claude Code professionally** for AI-assisted software engineering, including:
-
-```text
-Architecture
-Development
-Debugging
-Refactoring
-Codebase Analysis
-Technical Planning
-Context Management
-Implementation Workflows
-```
-
-### AI × SEO
-
-I also explore and build workflows around:
-
-* AI-assisted content production
-* SEO automation
-* Structured content systems
-* Search-oriented content pipelines
-* AI-assisted research and optimization
+**My principle: Context before prompts. Architecture before implementation.**
 
 ---
 
-## Selected Real-World Work
-
-Most of my professional work has been developed for businesses and clients, so not every production repository is publicly available.
-
-### Water Supply & Telemetry Management Systems
-
-Built management software for water and wastewater operations, including systems related to **water distribution management and telemetry workflows**.
-
-**Domain:** Infrastructure · Operations · Telemetry · Management Systems
-
----
-
-### Automotive Assistance & Service Management
-
-Developed systems for managing automotive services and operational workflows related to:
-
-* Vehicle assistance
-* Service management
-* Repair operations
-* Customer requests
-* Automotive service processes
-
-**Domain:** Automotive · Operations · Service Management
-
----
-
-### ECU Repair & Remapping Platform
-
-Developed a specialized management system for automotive electronics services including:
-
-* ECU repair
-* ECU programming
-* Remapping
-* Diagnostics-related workflows
-* Service management
-
-**Domain:** Automotive Technology · ECU · Diagnostics · Operations
-
----
-
-### SEO & Content Operations Platform
-
-Built a platform focused on **content production and SEO service workflows**, combining software engineering with search-oriented processes.
-
-**Domain:** SEO · Content Operations · Automation · Web Platforms
-
----
-
-## Technical SEO
-
-SEO is part of my engineering process from the architecture stage — not something added after development.
-
-Areas I work with include:
-
-```text
-Technical SEO
-Core Web Vitals
-Server-Side Rendering
-Search-Friendly Architecture
-Schema Markup
-Crawlability
-Indexability
-Internal Linking
-Page Performance
-Content Architecture
-Conversion-Oriented UX
-```
-
-### SEO Toolkit
-
-`Google Search Console` · `Ahrefs` · `Screaming Frog` · `RankMath` · `Core Web Vitals`
-
----
-
-## How I Approach Software
+## Engineering Philosophy
 
 ```ts
-const engineeringPrinciples = {
-  performance: "Fast by design",
-  architecture: "Built to evolve",
-  seo: "Search-aware from day one",
-  ui: "Simple and usable",
-  backend: "Reliable business logic",
-  data: "Structured and maintainable",
-  ai: "Context before prompting",
-  goal: "Solve real business problems"
+const principles = {
+  architecture: "Design for maintainability",
+  backend: "Build reliable systems",
+  frontend: "Create exceptional user experiences",
+  performance: "Optimize from the beginning",
+  security: "Security by design",
+  seo: "Search-aware architecture",
+  ai: "Use AI with engineering discipline",
+  quality: "Prefer quality over shortcuts",
 };
 ```
 
 ---
 
-## Areas of Interest
-
-I'm especially interested in projects involving:
-
-* Full-stack SaaS products
-* Business management platforms
-* AI-native applications
-* LLM-powered development workflows
-* Context Engineering
-* AI Agents
-* Technical SEO
-* SEO automation
-* Content infrastructure
-* Operational systems
-* Data-driven web applications
-* Internal business tools
-
----
-
 ## Currently Exploring
 
-```text
-→ Advanced Next.js architecture
-→ AI-native software development
-→ Context Engineering for LLM systems
-→ Agentic development workflows
-→ Scalable AI + SEO pipelines
-→ Headless architectures
-→ Web accessibility
-→ Modern application architecture
-```
+- Advanced NestJS Architecture
+- Scalable Node.js Applications
+- Distributed Systems
+- Advanced PostgreSQL
+- AI-Native Applications
+- Context Engineering
+- Agentic AI Workflows
+- Modern Frontend Architecture
+- Advanced Technical SEO
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadsohrabi2021&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<a href="https://github.com/mohammadsohrabi2021">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammadsohrabi2021&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsohrabi2021&layout=compact&theme=github_dark&hide_border=true" />
+<a href="https://github.com/mohammadsohrabi2021">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsohrabi2021&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
 
-<br>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohammadsohrabi2021&theme=github-dark-blue&hide_border=true" />
+<img width="85%" src="https://nirzak-streak-stats.vercel.app/?user=mohammadsohrabi2021&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## Let's Connect
+## Let's Build Something Great
 
-I'm interested in working on challenging products involving **software engineering, AI, SEO and business automation**.
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/mohammadsohrabi.com-14F7B4?style=for-the-badge\&logo=googlechrome\&logoColor=black)](https://mohammadsohrabi.com)
-
-[![Instagram](https://img.shields.io/badge/@mohammadsohrabi.dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mohammadsohrabi.dev)
-
-[![Email](https://img.shields.io/badge/mohammadsohrabi141@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohammadsohrabi141@gmail.com)
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadsohrabi2021\&style=flat-square\&color=14F7B4)
-
-</div>
-
----
+I'm interested in collaborating on challenging projects involving backend engineering, full-stack development, AI-powered applications, SaaS products and business automation.
 
 <div align="center">
 
-### `Software × AI × Search × Real-World Systems`
+<a href="https://mohammadsohrabi.com">
+<img src="https://img.shields.io/badge/WEBSITE-14F7B4?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="https://instagram.com/mohammadsohrabi.dev">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:mohammadsohrabi141@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Build better. Think in systems. Engineer the context.**
+<br/><br/>
+
+### `ENGINEER. BUILD. OPTIMIZE. SCALE.`
+
+<sub>Software Engineering × AI × Search × Real-World Systems</sub>
 
 </div>
